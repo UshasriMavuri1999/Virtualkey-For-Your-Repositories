@@ -1,0 +1,6 @@
+Enter "1" to search for files
+Enter "2" to add a new file
+Enter "3" to delete a file
+Enter "4" to list all file names ascendingly
+Enter "0" to exit the app :
+
